@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 Currently working on back and front<br>👯 Looking to collaborate on startup o projects<br>🤝 Looking for help with mobile<br>🌱 Currently learning all i can<br>💬 Ask me about anything<br>⚡ Fun fact your computer is my other computer
 
 
 # 💻 Tech Stack:
