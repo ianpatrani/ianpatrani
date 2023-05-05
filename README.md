@@ -15,7 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###Visits 💻
+💻
 [![](https://visitcount.itsvg.in/api?id=ianpatrani&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://pbs.twimg.com/media/BwhQJpfIQAARUBR.jpg:large)
